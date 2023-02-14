@@ -6,7 +6,7 @@
 
     height: 100%;
 
-    background-color: var(--light-gray);
+    background-color: var(--cream);
 }
 
 .attribution {
@@ -16,6 +16,6 @@
     text-align: center;
 
     a {
-        color: var(--dark-blue);
+        color: var(--very-dark-blue);
     }
 }

@@ -1,0 +1,19 @@
+button {
+    cursor: pointer;
+
+    padding: 1em 1.5em;
+
+    color: var(--white);
+
+    background-color: var(--dark-cyan);
+    border: none;
+    border-radius: 0.5em;
+    outline: none;
+
+    font-weight: 700;
+
+    &:hover,
+    &:focus {
+        background-color: var(--very-dark-cyan);
+    }
+}

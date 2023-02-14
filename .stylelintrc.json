@@ -6,7 +6,8 @@
         "plugin/declaration-block-no-ignored-properties": true,
         "color-hex-length": null,
         "value-keyword-case": null,
-        "import-notation": "string"
+        "import-notation": "string",
+        "selector-class-pattern": null
     },
     "overrides": [
         {
