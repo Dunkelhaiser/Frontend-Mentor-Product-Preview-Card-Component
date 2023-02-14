@@ -1,0 +1,7 @@
+@import "https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap";
+
+:root {
+    --font: "Montserrat", sans-serif;
+    --font-serif: "Fraunces", serif;
+}
